@@ -16,8 +16,8 @@ The objective of this lab is to implement and analyze the assigned computational
 The project is available on the following platforms:
 
 - **Overleaf:** [Visit here](https://www.overleaf.com/1666184794skgfrffjnbjj#9a9a52)  
-- **Google Colab:** [Visit here](#)  
-- **Kaggle:** [Visit here](#)
+- **Google Colab:** [Visit here](https://colab.research.google.com/drive/1EZGu45h68vEvNStyDTZMfD4l2-ccH-jG?usp=sharing)  
+- **Kaggle:** [Visit here](https://www.kaggle.com/code/junaidjadoon/notebookc4b5f02a24)
 - **GIST:**[GIST Project](<script src="https://gist.github.com/junaidjadoon/209114b76071542e712e3de17670d2c2.js"></script>)
 
 ## Implementation Details
